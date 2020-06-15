@@ -25,5 +25,5 @@ Step 1. Resource Sharing: contains the files to be shared accross the maven proj
 
 Step 2. Resource User: on running "mvn clean install" will unzip the file in the target/generated-resources directory.
 
-Step 3. Then, filers can be used as per the usage in the project.
+Step 3. Then, resource files can be used as per the usage in the project.
 
